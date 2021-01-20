@@ -1,7 +1,7 @@
 ######################################################################################
 # IPs who tried to find admin pages or launch php scripts on my webserver            #
 # I use this list to update my firewall block list, feel free to use it any purpose  #
-# Last updated: 2021-01-19 14:22:30 UTC                                              #
+# Last updated: 2021-01-20 08:22:02 UTC                                              #
 ######################################################################################
 #
 45.155.205.108
@@ -38,3 +38,7 @@
 118.70.151.8
 18.231.142.187
 59.99.92.82
+45.229.54.39
+182.253.250.156
+106.12.79.151
+
