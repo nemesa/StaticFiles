@@ -1,0 +1,27 @@
+{
+    "propertyA": 1,
+    "propertyB": "Some Value",
+    "propertyC": true,
+    "propertyD": {
+        "propertyE": "Another Value",
+        "propertyF": 2
+    },
+    "propertyG": [
+        {
+            "propertyH": "Yet Another Value",
+            "propertyI": 3
+        },
+        {
+            "propertyH": "Yet Another Value 2",
+            "propertyI": 4
+        }
+    ],
+    "propertyJ": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "propertyK": null
+}
